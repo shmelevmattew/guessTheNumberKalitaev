@@ -1,0 +1,81 @@
+body
+{
+  padding: 30px;
+  background-color: white;
+  font-family: 'Manrope';font-size: 22px;
+}
+
+.centerDIV
+{
+  margin: 0 auto;
+  max-width: 700px;
+  background-color: #c8b7a6;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.guess
+{
+  font-size: 50px;
+  width: 7rem;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;  
+}
+
+.guessText
+{
+  text-align: center;
+  font-size: 60px;
+  padding: 5px;
+}
+
+.between
+{
+  text-align: center;
+}
+
+.check
+{
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+.again
+{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.centerDIV1
+{
+  margin: 0 auto;
+  margin-top: 80px;
+  max-width: 700px;
+  background-color: #b6c199;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.myScoreboard
+{
+  text-align: center;
+  font-size: 40px;
+}
+
+.label-score
+{
+  font-size: 30px;
+}
+
+.label-highscore
+{
+  font-size: 30px;
+}
+
+.highscore
+{
+  color: blue;
+}
